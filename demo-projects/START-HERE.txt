@@ -1,0 +1,8 @@
+GOODNEWS DANIEL — FRONTEND DEMO PROJECTS
+
+1. Open northstar-academy/index.html for the school admissions website concept.
+2. Open forme-realty/index.html for the real estate website concept.
+3. Each project has its own styles.css, script.js and README.md.
+4. Both demos are frontend-only. Their forms do not transmit or save information.
+5. Listings and school are fictional concepts, not real businesses.
+6. Fonts and images load from Google Fonts and Unsplash, so those assets need an internet connection.
